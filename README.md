@@ -32,8 +32,8 @@ Os resultados da análise são apresentados no próprio notebook, incluindo tabe
 
 **Autor:**
 
-[Seu Nome]
+Jose R. de Aquino Araújo
 
 **Data:**
 
-[Data da criação do README]
+19/04/2025
